@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5245
     wikipedia: http://en.wikipedia.org/wiki/Jules_Amédée_Barbey_d'Aurevilly
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13848#Les-diaboliques
 gutenberg_bookshelf: FR Nouvelles
 gutenberg_issued: '2004-10-25'
 gutenberg_type: Text
